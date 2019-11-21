@@ -1,0 +1,147 @@
+{
+    "@id": "https://readux.ecdsdev.org/annotations/jcmundy39/readux:thgg7/list/readux:thgg7_00000001.jp2",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@id": "156655b2-103d-46a6-a94d-21c50f195bc3",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>More</p>",
+                "language": "en"
+            },
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/readux:thgg7/canvas/readux:thgg7_00000001.jp2",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=7182,4644,607,466",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=7182,4644,607,466"
+                        },
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7182.22988,4644.43701h303.72441v0h303.72441v232.87402v232.87402h-303.72441h-303.72441v-232.87402z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_69b0d8c0-ac81-4ee0-a527-b0db01ecfbc1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    }
+                },
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/readux:thgg7/manifest",
+                    "@type": "sc:Manifest"
+                }
+            }
+        },
+        {
+            "@id": "bc7222ac-862a-492c-8f48-c1db135b9725",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Head again</p>",
+                "language": "en"
+            },
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/readux:thgg7/canvas/readux:thgg7_00000001.jp2",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1558,855,622,712",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1558,855,622,712"
+                        },
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1557.84702,855.08296h310.77515v0h310.77515v355.95069v355.95069h-310.77515h-310.77515v-355.95069z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a378b98e-15af-422a-a31f-07db44132bc1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"67.9308\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    }
+                },
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/readux:thgg7/manifest",
+                    "@type": "sc:Manifest"
+                }
+            }
+        },
+        {
+            "@id": "dd626bf8-4fab-4aa9-9e0c-5f0e62b43295",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>Not the map - the key</p>",
+                "language": "en"
+            },
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/readux:thgg7/canvas/readux:thgg7_00000001.jp2",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=10267,2388,611,702",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=10267,2388,611,702"
+                        },
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M10356.42566,2490.49126c56.44217,-58.94462 136.06299,-102.83868 216.06965,-102.78623v0v0c80.00666,0.05244 149.70589,41.11463 216.06965,102.78623c66.36377,61.67161 92.15852,155.64723 89.49898,248.14792c-2.65954,92.50069 -33.77337,183.52644 -89.49898,248.14792c-55.72561,64.62148 -136.06299,102.83868 -216.06965,102.78623c-80.00666,-0.05244 -159.68261,-38.37453 -216.06965,-102.78623c-56.38705,-64.41171 -89.4852,-154.91304 -89.49898,-248.14792c-0.01378,-93.23488 33.05681,-189.2033 89.49898,-248.14792z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_a79444be-d496-427c-a231-065f23746b03\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    }
+                },
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/readux:thgg7/manifest",
+                    "@type": "sc:Manifest"
+                }
+            }
+        },
+        {
+            "@id": "ff388f3b-8fa3-41e2-b5df-b63faa59541f",
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>jars</p>",
+                "language": "en"
+            },
+            "annotatedBy": {
+                "name": "Joanna's Github"
+            },
+            "on": {
+                "full": "https://readux.ecdsdev.org/iiif/v2/readux:thgg7/canvas/readux:thgg7_00000001.jp2",
+                "@type": "oa:SpecificResource",
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=4784,6409,475,418",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4784,6409,475,418"
+                        },
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4853.088,6469.85635c43.81421,-35.07233 105.62126,-61.1895 167.72782,-61.1583v0v0c62.10656,0.0312 116.21179,24.4634 167.72782,61.1583c51.51602,36.6949 71.53965,92.61084 69.47514,147.6492c-2.06451,55.03835 -26.21717,109.19911 -69.47514,147.6492c-43.25797,38.45009 -105.62126,61.1895 -167.72782,61.1583c-62.10656,-0.0312 -123.95639,-22.83303 -167.72782,-61.1583c-43.77142,-38.32527 -69.46444,-92.174 -69.47514,-147.6492c-0.0107,-55.4752 25.66092,-112.57687 69.47514,-147.6492z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_00d7aa82-e0e5-4277-a234-3cb5f695246d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                    }
+                },
+                "within": {
+                    "@id": "https://readux.ecdsdev.org/iiif/v2/readux:thgg7/manifest",
+                    "@type": "sc:Manifest"
+                }
+            }
+        }
+    ],
+    "@context": "http://iiif.io/api/presentation/2/context.json"
+}
